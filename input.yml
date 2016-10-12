@@ -1,0 +1,16 @@
+%YAML 1.2
+
+# this is me
+
+person:
+  id: 1
+  bsn: BSAS213423423
+  name: 
+    first: juan b.
+    last: grau gimeno
+  tags: 
+  - 1 
+  - home
+  - 3
+
+# {"person":{"name":{"first":"juan b.","last":"grau gimeno"},"tags":[1,"home",3]}}
